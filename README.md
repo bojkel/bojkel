@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Bozhidar "Bo" Aleksandrov @bojkel
+- 👀 I’m interested in web development and online security!
+- 🌱 I’m currently working with Angular & Java
+- 💞️ I’m looking forward to collaborate with passionate and open minded people who are constantly striving to improve themself and want to exchange knowledge/experience.
+- 📫 Reach me on Instagram @bojkel or in LinkedIn @Bozhidar Aleksandrov
+
+<!---
+bojkel/bojkel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
