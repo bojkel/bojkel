@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and online security!
 - 🌱 I’m currently working on web applications, using Angular, RXJS, Cypress, Java & Docker. 
 - 💞️ I’m looking forward to collaborate with passionate and open minded people who are constantly striving to improve themself and want to exchange knowledge/experience.
-- 📫 Reach me on Instagram @bojkel or in LinkedIn @Bozhidar Aleksandrov
+- 📫 Reach out to me on Instagram @bojkel or in LinkedIn @Bozhidar Aleksandrov
 
 <!---
 bojkel/bojkel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
